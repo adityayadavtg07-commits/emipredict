@@ -1,0 +1,16 @@
+{
+    "rows_before": 404800,
+    "rows_after": 404800,
+    "numeric_values_cleaned": 406720,
+    "categorical_values_normalized": 9022,
+    "missing_values_before": {
+        "education": 2404,
+        "monthly_rent": 2426,
+        "credit_score": 2420,
+        "bank_balance": 2426,
+        "emergency_fund": 2351
+    },
+    "missing_values_after": {},
+    "rows_removed": 0,
+    "warnings": []
+}
